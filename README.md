@@ -1,1 +1,1 @@
-# nyc-taxi-data-pipeline
+# NYC Yellow Taxi ETL Pipeline using Synapse SQL Pools.
